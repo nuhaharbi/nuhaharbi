@@ -4,7 +4,7 @@
 - 🧱 I’m currently learning iOS development.
 - 🎯 I have a passion for creating useful and ✨fabulous✨ applications.
 - 🦸🏻‍♀️ My superpower is curiosity which keeps me learning and exploring new things.
-.
+
 #
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhaharbi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --->
