@@ -1,4 +1,4 @@
-# Hi there, I am Nuha <img src="https://thumbs.gfycat.com/WideeyedWellgroomedJerboa-max-1mb.gif" width="80" height="80">
+# Hi there, I am Nuha <img src="https://thumbs.gfycat.com/WideeyedWellgroomedJerboa-max-1mb.gif" width="50" height="50">
 
 ### An iOS developer in making...
 - 🧱 I’m currently learning iOS development 
