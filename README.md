@@ -5,6 +5,6 @@
 .
 .
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhaharbi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhaharbi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![noface](https://media.tenor.com/i0wDIPF02mMAAAAM/no-face-ghost.gif)
